@@ -60,7 +60,7 @@ val appsFromServer = listOf(
     )
 )
 
-// 3. Главная Activity
+// 3. Главная MainActivity
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
