@@ -29,7 +29,6 @@ import androidx.navigation.navArgument
 // ==========================================
 // 1. ТОЧКА ВХОДА (ACTIVITY)
 // ==========================================
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
