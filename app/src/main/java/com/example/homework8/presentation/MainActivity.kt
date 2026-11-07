@@ -5,6 +5,7 @@ import androidx.activity.compose.setContent
 import com.example.homework8.presentation.apps.AppsScreen
 import dagger.hilt.android.AndroidEntryPoint
 
+
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
